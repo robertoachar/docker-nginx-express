@@ -1,0 +1,19 @@
+* text=auto eol=lf
+
+# fonts
+*.eot binary
+*.otf binary
+*.ttf binary
+*.woff binary
+*.woff2 binary
+
+# graphics
+*.bmp binary
+*.gif binary
+*.ico binary
+*.jpeg binary
+*.jpg binary
+*.png binary
+*.svg binary
+*.tif binary
+*.tiff binary
